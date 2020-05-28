@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+}
+.content {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+button {
+    margin: 20px;
+    outline: none;
+    border: 2px solid blanchedalmond;
+    background: none;
+    color: blanchedalmond;
+    font-size: 40px;
+}
